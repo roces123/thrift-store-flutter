@@ -1,0 +1,2 @@
+# Tell GitHub Linguist to ignore the generated JavaScript files
+build/web/** linguist-language=JavaScript linguist-vendored
